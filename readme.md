@@ -1,6 +1,9 @@
 # 🐍 30 Days Of Python 
 
-
+What I wish i had for breakfast today
+- donut
+- sweet bagel
+- sucralose laced bread bun missing center
 
 |   # Day   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
